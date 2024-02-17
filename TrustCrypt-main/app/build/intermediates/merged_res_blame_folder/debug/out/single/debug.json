@@ -1,0 +1,162 @@
+[
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable-v24_three.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable-v24\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\layout_activity_unknownappscan.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\layout\\activity_unknownappscan.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_button_bg.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\button_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\layout_activity_googleplaystorescan.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\layout\\activity_googleplaystorescan.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\layout_activity_dashboard.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_trustcrypt_logo.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\trustcrypt_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_progressbar_circle.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\progressbar_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable-v24_four.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable-v24\\four.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_playstore.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\playstore.xml"
+    },
+    {
+        "merged": "com.kalios.trustcrypt.app-merged_res-32:/layout_activity_url_scan.xml.flat",
+        "source": "com.kalios.trustcrypt.app-main-34:/layout/activity_url_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-mdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\layout_activity_report_us.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\layout\\activity_report_us.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_reportus.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\reportus.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\layout_activity_splashscreen.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\font_inter.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\font\\inter.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable-v24_one.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable-v24\\one.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\layout_activity_url_scan.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\layout\\activity_url_scan.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable-v24_two.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable-v24\\two.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_url.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\url.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-merged_res-32:\\drawable_unknownsource.xml.flat",
+        "source": "C:\\Users\\kshat\\.gradle\\daemon\\8.0\\com.kalios.trustcrypt.app-main-34:\\drawable\\unknownsource.xml"
+    }
+]

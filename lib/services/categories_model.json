@@ -1,0 +1,72 @@
+{
+    "categories": [
+        {
+            "name": "Women Clothing",
+            "subcategory": [
+                "Wedding",
+                "Tops ans Sets",
+                "Watchers"
+
+            ]
+        },
+        {
+            "name": "Man Clothing Fashion",
+            "subcategory": [
+                "outware & dresses",
+                "Formal dresses",
+                "accessories"
+
+            ]
+        },
+        {
+            "name": "Computer & Accessories",
+            "subcategory": [
+                "Laptop",
+                "gaming Pc"
+
+            ]
+        },{
+            "name": "Automobile",
+            "subcategory": [
+                "Cars",
+                "Bikes"
+            ]
+        },{
+            "name": "Kids & Toys",
+            "subcategory": [
+                "Shoes & Bags",
+                "Baby Clothing",
+                "Girls Toys"
+            ]
+        },{
+            "name": "Sports",
+            "subcategory": [
+                "cycling",
+                "smeakers",
+                "swimming"
+            ]
+        },
+        {
+            "name": "Jewlery",
+            "subcategory": [
+                "Neckiace",
+                "Gold",
+                "Earing"
+            ]
+        },  {
+            "name": "Cellphone & Tab",
+            "subcategory": [
+                "Smartphone",
+                "Tabes",
+                "Accessories"
+            ]
+        },{
+            "name": "Furniture",
+            "subcategory": [
+                "sofa",
+                "Chairs",
+                "Home textures"
+            ]
+        }
+    ]
+}
